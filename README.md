@@ -390,7 +390,7 @@ export default class MyForm extends React.Component {
 }
 ```
 
-![image-20210308161906044](C:\Users\Usuario\AppData\Roaming\Typora\typora-user-images\image-20210308161906044.png) 
+[![image-20210308161906044](C:\Users\Usuario\AppData\Roaming\Typora\typora-user-images\image-20210308161906044.png) 
 
 ## Conclusión
 
